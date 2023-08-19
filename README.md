@@ -5,7 +5,7 @@
       - Video Games 🎮
       - Sports 🏈
       - Colleges 🎓
-  <br> <\br>
+  <br> 
   ![GoStanfordGIF](https://github.com/JosueA015/JosueA015/assets/140913459/69b6876c-cc8a-4324-8ea3-57253739845d)
 
 - 🌱 I’m currently learning ...
