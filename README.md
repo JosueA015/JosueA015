@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JosueA015
+- 👋 <h1> Hi, I’m Josh.
 - 👀 I’m interested in ...
       - Coding 🖥️
       - Music 🎼
