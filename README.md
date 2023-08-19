@@ -1,5 +1,5 @@
 <h1>👋  Hi, I’m Josh.
-<h3> 👀 I’m interested in ...
+<h3> 👀 I’m interested in ... </h3>
       - Coding 🖥️
       - Music 🎼
       - Video Games 🎮
