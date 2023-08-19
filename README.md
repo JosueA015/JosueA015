@@ -1,4 +1,4 @@
-- 👋 <h1> Hi, I’m Josh.
+- <h1>👋  Hi, I’m Josh.
 - 👀 I’m interested in ...
       - Coding 🖥️
       - Music 🎼
