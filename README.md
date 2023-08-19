@@ -1,10 +1,10 @@
 <h1>👋  Hi, I’m Josh.
 <h3> 👀 I’m interested in ... </h3>
-      - Coding 🖥️
-      - Music 🎼
-      - Video Games 🎮
-      - Sports 🏈
-      - Colleges 🎓
+      - Coding 🖥️ <br>
+      - Music 🎼 <br>
+      - Video Games 🎮 <br>
+      - Sports 🏈 <br>
+      - Colleges 🎓 <br>
   <br>
       
   ![GoStanfordGIF](https://github.com/JosueA015/JosueA015/assets/140913459/69b6876c-cc8a-4324-8ea3-57253739845d)
@@ -13,9 +13,9 @@
 
 <h3> 🌱 I’m currently learning ... </h3>
 <br>
-      - Programming (Java, C#, Python) ╰(*°▽°*)╯
-      - Math (Multivariable Calc / Linear Algebra)
-      - Physics 
+      - Programming (Java, C#, Python) ╰(*°▽°*)╯ <br>
+      - Math (Multivariable Calc / Linear Algebra) <br>
+      - Physics <br>
 <h3> 📫 How to reach me ... </h3> 
 <br>
       - Email (joshticer510@gmail.com)
