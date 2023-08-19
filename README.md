@@ -11,7 +11,7 @@
   
 ![StanfordGIF](https://github.com/JosueA015/JosueA015/assets/140913459/e349dc86-290a-43b1-8ffc-206b476bf795)
 
-<h2> 🌱 I’m currently learning ... </h2>
+<h3> 🌱 I’m currently learning ... </h3>
       - Programming (Java, C#, Python) ╰(*°▽°*)╯
 <h3> 📫 How to reach me ... </h3> 
       - Email (joshticer510@gmail.com)
