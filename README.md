@@ -14,6 +14,8 @@
 <h3> 🌱 I’m currently learning ... </h3>
 <br>
       - Programming (Java, C#, Python) ╰(*°▽°*)╯
+      - Math (Multivariable Calc / Linear Algebra)
+      - Physics
 <h3> 📫 How to reach me ... </h3> 
 <br>
       - Email (joshticer510@gmail.com)
