@@ -20,6 +20,10 @@
 <br>
       - Email (joshticer510@gmail.com)
 
+pls accept me (┬┬﹏┬┬)
+
+      
+
 <!---
 JosueA015/JosueA015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
