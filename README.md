@@ -7,7 +7,7 @@
       - Colleges 🎓 <br>
   <br>
       
-  ![GoStanfordGIF](https://github.com/JosueA015/JosueA015/assets/140913459/69b6876c-cc8a-4324-8ea3-57253739845d | width = 300)
+  ![GoStanfordGIF](https://github.com/JosueA015/JosueA015/assets/140913459/69b6876c-cc8a-4324-8ea3-57253739845d)
   
   
 ![StanfordGIF](https://github.com/JosueA015/JosueA015/assets/140913459/e349dc86-290a-43b1-8ffc-206b476bf795)
